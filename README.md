@@ -1,13 +1,14 @@
 ## Ola! eu sou o Gabriel Almeida
 
 👨‍💼 Hoje trabalho como tecnico de informatica <br>
-✌ A procura de desafios para estar sempre em evolucao
+✌ A procura de desafios para estar sempre em evolução, foi o que ela disse. MS
 
 <div>
 <a href="https://github.com/costAlme">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=costAlme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costAlme&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
 
 ## 
 
