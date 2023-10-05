@@ -1,7 +1,7 @@
 ## Ola! eu sou o Gabriel Almeida
 
 👨‍💼 Hoje trabalho como tecnico de informatica <br>
-✌ A procura de desafios para estar sempre em evolução, foi o que ela disse. MS
+✌ A procura de desafios para estar sempre em evolução. <br> "Foi o que ela disse." Michael Scoot
 
 <div>
 <a href="https://github.com/costAlme">
