@@ -1,7 +1,7 @@
 ## Ola! eu sou o Gabriel Almeida
 
 👨‍💼 Hoje trabalho como tecnico de informatica <br>
-✌ Estudo Programacao Web 
+✌ A procura de desafios para estar sempre em evolucao
 
 <div>
 <a href="https://github.com/costAlme">
